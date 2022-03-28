@@ -1,0 +1,13 @@
+C:\Users\Sime\source\repos\gaurina2_sime\gaurina2_sime\bin\Debug\gaurina2_sime.exe.config
+C:\Users\Sime\source\repos\gaurina2_sime\gaurina2_sime\bin\Debug\gaurina2_sime.exe
+C:\Users\Sime\source\repos\gaurina2_sime\gaurina2_sime\bin\Debug\gaurina2_sime.pdb
+C:\Users\Sime\source\repos\gaurina2_sime\gaurina2_sime\obj\Debug\gaurina2_sime.Datum.resources
+C:\Users\Sime\source\repos\gaurina2_sime\gaurina2_sime\obj\Debug\gaurina2_sime.Form1.resources
+C:\Users\Sime\source\repos\gaurina2_sime\gaurina2_sime\obj\Debug\gaurina2_sime.Properties.Resources.resources
+C:\Users\Sime\source\repos\gaurina2_sime\gaurina2_sime\obj\Debug\gaurina2_sime.csproj.GenerateResource.cache
+C:\Users\Sime\source\repos\gaurina2_sime\gaurina2_sime\obj\Debug\gaurina2_sime.csproj.CoreCompileInputs.cache
+C:\Users\Sime\source\repos\gaurina2_sime\gaurina2_sime\obj\Debug\gaurina2_sime.exe
+C:\Users\Sime\source\repos\gaurina2_sime\gaurina2_sime\obj\Debug\gaurina2_sime.pdb
+C:\Users\Sime\source\repos\gaurina2_sime\gaurina2_sime\obj\Debug\gaurina2_sime.csproj.AssemblyReference.cache
+C:\Users\Sime\source\repos\gaurina2_sime\gaurina2_sime\obj\Debug\gaurina2_sime.vremenski_raspon.resources
+C:\Users\Sime\source\repos\gaurina2_sime\gaurina2_sime\obj\Debug\gaurina2_sime.graf.resources
